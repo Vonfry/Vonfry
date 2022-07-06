@@ -1,5 +1,6 @@
-[My GitLab](https://gitlab.com/Vonfry) is the main private using and
-[my GitHub](https://github.com/Vonfry) is for contributing to some public repos.
+[Repos](https://git.sr.ht/~vonfry/) list my person projects (private mainly) 
+and
+[GitHub](https://github.com/Vonfry) & [Gitlab](https://gitlab.com/Vonfry) are for contributing to some public repos.
 
 Blog: [vonfry.name](https://vonfry.name)
 
